@@ -27,7 +27,7 @@ there was no sufficient information on ground attribute of the dataset.
 # Data Visualization
 The dataset was visualised using Power Bi software.
 ----
-Summary:
+#Summary:
 Shot down cases; 
 A total crash of 132 was caused by shot-down incidents.
 Out of Fuel cases;
@@ -41,7 +41,7 @@ Total Crashes of 1814 were caused by Climatic factors such as rain, storm, snow,
 Unknown:
 765 crash cases were caused by an unknown factor in this dataset.
 ----
-Insight:
+#Insight:
 The highest occurrence of aircraft crashes was recorded in the year 1998 with a value of 368445.
 The highest no. of survived from aircraft crashes was recorded in the year 1999 with a value of 1788.
 The highest no. of fatalities (death) events in aircraft crashes was recorded in the year 1972 with the value of 2937.
