@@ -26,7 +26,7 @@ there was no sufficient information on ground attribute of the dataset.
 ----
 # Data Visualization
 The dataset was visualised using Power Bi software.
-----
+
 #Summary:
 Shot down cases; 
 A total crash of 132 was caused by shot-down incidents.
