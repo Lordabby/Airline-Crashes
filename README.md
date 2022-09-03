@@ -1,6 +1,6 @@
 # Project: Airline-Crashes
-This project is used to demonstrate skills and knowledge gained through the course of #NG30DAYS OF LEARNING.
-----
+This project is used to demonstrate skills and knowledge gained through the course of NG30DAYS OF LEARNING.
+
 # Problem Objectives
 1. Yearly how many planes crashed? how many people were on board? how many survived? how many died?
 2. Highest number of crashes by operator and Type of aircrafts.
